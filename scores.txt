@@ -1,0 +1,7 @@
+№ name  scores  time
+1 sasha   21   Wed Mar 31 18:54:06 2021
+2 kesja   21   Fri Apr  2 18:13:59 2021
+3 senya   14   Fri Apr  2 18:14:28 2021
+4 petya   14   Fri Apr  2 18:17:18 2021
+5 fffff   21   Fri Apr  2 18:51:55 2021
+

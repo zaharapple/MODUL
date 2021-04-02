@@ -1,5 +1,5 @@
 '''
-This model have a constants.
+This model have a constants
 '''
 # types of attacks
 WIZARD = 1

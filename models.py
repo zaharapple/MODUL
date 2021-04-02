@@ -1,5 +1,5 @@
 '''
-Module with all classes game.
+Module with all classes game
 '''
 import settings
 import random

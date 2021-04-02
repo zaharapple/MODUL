@@ -1,5 +1,5 @@
 '''
-Module with all game exceptions
+Module with all game exceptions.
 '''
 from datetime import datetime
 

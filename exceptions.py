@@ -46,7 +46,7 @@ class Scores:
     @staticmethod
     def show_scores():
         '''
-        Models why show in terminal scores
+        Models why show in terminal scores.
         '''
         with open('scores.txt') as file:
             for row in file.readlines()[1:]:

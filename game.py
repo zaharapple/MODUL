@@ -1,5 +1,5 @@
 '''
-Modul with main runner game
+Modul with main runner game.
 '''
 import models
 from exceptions import GameOver, EnemyDown, Scores

@@ -6,7 +6,7 @@ from datetime import datetime
 
 class GameOver(Exception):
     '''
-    Exception for end game if player lives become 0.
+    Exception for end game if player lives become 0
     '''
 
     def __init__(self, name, score):
